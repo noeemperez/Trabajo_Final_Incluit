@@ -1,4 +1,4 @@
-django==2.2.5
+django==2.2.8
 ipython==7.7.0
 jupyter==1.0.0
 requests==2.22.0
